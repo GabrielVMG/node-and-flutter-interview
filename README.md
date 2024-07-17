@@ -3,6 +3,9 @@
 2.  `npm install`.
 3.  `npm run dev`.
 
+## Insertar los datos del archivo `data.json` en la base de datos
+
+> Para esto necesitarás ejecutar el endpoint **POST** `/articles/seed`
 
 # Frontend
 1.  Ejecutar el comando `flutter pub get`.
