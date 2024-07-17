@@ -41,6 +41,7 @@ class _MainScreenState extends State<MainScreen> {
             author: _articles[index].author,
             description: _articles[index].description,
             urlToImage: _articles[index].urlToImage,
+            url: _articles[index].url,
           );
         },
       ),
